@@ -12,7 +12,6 @@ node_modules/
 
 # Misc
 .DS_Store
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -26,7 +25,6 @@ lerna-debug.log*
 
 # Editor directories and files
 .idea/
-.vscode/
 *.suo
 *.ntvs*
 *.njsproj
@@ -60,3 +58,7 @@ Favorites/
 Links/
 Music/
 NTUSER.DAT*
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
+config.bat
